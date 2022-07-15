@@ -23,7 +23,7 @@ Make sure you have downloaded the live server in VS-Code
 Start the live server
 
 ```bash
-  Let you start the live server in your HTML file 
+  Open the HTML file in the browser 
   i.e. index.html
   and enjoy 💫
 

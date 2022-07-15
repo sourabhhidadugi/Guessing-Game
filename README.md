@@ -1,7 +1,7 @@
 
 # guessTheNumber
 
-It is a small game generated using a java script which can be a stress buster in a while time. 
+It is a small game generated using  javascript which can be a stress buster at times. 
 
 Anyone wants to know the code can simply read and understand the code. 
 
@@ -11,10 +11,6 @@ The code is neatly organised with proper comments which gives proper knowledge a
 ## to Run this project Locally
 
 Clone the project
-
-```bash
-  git clone [https://link-to-project](https://github.com/nikhilhat/guessTheNumber.git)
-```
 
 Go to the project directory
 
@@ -31,10 +27,4 @@ Start the live server
   i.e. index.html
   and enjoy 💫
 
-```
-The firebase link for this project is 
-
-```bash
-  https://gtn-20.web.app/
-```
 

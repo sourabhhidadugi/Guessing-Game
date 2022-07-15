@@ -11,6 +11,9 @@ The code is neatly organised with proper comments which gives proper knowledge a
 ## to Run this project Locally
 
 Clone the project
+```
+git clone https://github.com/sourabhhidadugi/Guessing-Game
+```
 
 Go to the project directory
 
